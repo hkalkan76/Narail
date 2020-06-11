@@ -1,2 +1,0 @@
-# Narail
-Narail Project
